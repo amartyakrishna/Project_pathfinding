@@ -11,7 +11,7 @@ import { astar, getnodesInShortestPathOrder } from "../algorithms/astar";
 let row_max_length = 20;
 let col_max_length = 50;
 
-let START_NODE_ROW = 10;
+let START_NODE_ROW = 8;
 let START_NODE_COL = 10;
 let FINISH_NODE_ROW = 10;
 let FINISH_NODE_COL = 30;
